@@ -5,6 +5,8 @@
 
 Indikator MetaTrader 5 untuk **candlestick berbasis detik** (1-59 detik). Cocok untuk scalping dan trading frekuensi tinggi.
 
+<img width="1200" height="800" alt="BTCUSDM1" src="https://github.com/user-attachments/assets/db0c0702-d513-4029-a2b1-d1d133bc57dc" />
+
 ## Fitur
 
 - Periode detik yang dapat disesuaikan (1-59 detik)
